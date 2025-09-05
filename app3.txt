@@ -1,2 +1,5 @@
 레전드 app3 파일 aaaaaaaaaaaaaaaaaaaaaaa
-개래전드 마스터브렌치 커밋 ㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱ
+
+
+전체적인 수정
+>>>>>>> coupon
